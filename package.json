@@ -1,0 +1,9 @@
+{
+  "name": "sorryfield-rich-presence",
+  "version": "1.0.0",
+  "author": "Chu Hyeon-jin <choo51455145@gmail.com>",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "discord-rpc": "^3.2.0"
+  }
+}
